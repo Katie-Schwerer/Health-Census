@@ -1,0 +1,55 @@
+{
+  "conditions": [
+    {
+      "name": "Thyroid",
+      "imagesrc": "https://www.udmi.net/wp-content/uploads/2020/01/UDMI_Thyroid-Disease.jpeg",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain or loss",
+        "Dry skin",
+        "Muscle weakness",
+        "Irregular menstrual periods"
+      ],
+      "prevention": [
+        "Eat a balanced diet",
+        "Exercise regularly",
+        "Get regular check-ups"
+      ],
+      "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+    },
+    {
+      "name": "Diabetes",
+      "imagesrc": "https://images.everydayhealth.com/images/2025/eh-type-2-diabetes-gg-1440x810.png?sfvrsn=bf5f2561_3",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Blurry vision",
+        "Fatigue",
+        "Slow healing of cuts or sores"
+      ],
+      "prevention": [
+        "Maintain a healthy weight",
+        "Follow a balanced diet",
+        "Regular exercise"
+      ],
+      "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+    },
+    {
+      "name": "High Blood Pressure",
+      "imagesrc": "https://www.omegor.com/cdn/shop/articles/Articoli_blog_f249af53-425f-46ba-bf61-792664889adc.png?crop=center&height=980&v=1717422481&width=1280",
+      "symptoms": [
+        "Headaches",
+        "Shortness of breath",
+        "Chest pain",
+        "Dizziness",
+        "Blurred or double vision"
+      ],
+      "prevention": [
+        "Reduce salt intake",
+        "Exercise regularly",
+        "Maintain a healthy weight"
+      ],
+      "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+    }
+  ]
+}
